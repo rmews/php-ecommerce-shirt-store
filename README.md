@@ -1,15 +1,16 @@
-My First E-Commerce Project
----------------------------
+# eCommerce Store using LAMP stack
 
-A PHP Application I built as part of my Treehouse development bootcamp. 
+#### Technologies
+* HTML/CSS
+* Linux/Ubuntu
+* Apache2 web server
+* PHP
+* MySQL
+* PayPal API
 
-
-Features
---------
-
-Dynamically list new shirts on homepage
-Shirt listing page pagination
-Shopping cart integration
-Product search
-Secure contact form
-
+#### Features
+* Dynamically list new shirts on homepage
+* Shirt listing page pagination  
+* Shopping cart integration  
+* Product search  
+* Secure contact form  
